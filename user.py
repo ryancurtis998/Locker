@@ -14,13 +14,6 @@ class User:
         """
         User.user_detail.append(self)
 
-    def  delete_detail():
-
-        """
-        the delete_detail method is used to remove objects from the user detail array
-        """
-
-        User.user_detail.remove(self)
 
     def __init__(self,account_name,username,password,confirm_password):
 
