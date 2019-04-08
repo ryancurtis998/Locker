@@ -14,7 +14,7 @@ class User:
         """
         User.user_detail.append(self)
 
-    def delete_detail():
+    def  delete_detail():
 
         """
         the delete_detail method is used to remove objects from the user detail array
