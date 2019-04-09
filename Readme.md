@@ -14,7 +14,7 @@ This is an app that allows users to store account credentials, it also gives the
 
 Python 3.6
 
-## Application requirements
+##  Application requirements
 
 1. Ensure you have Python3.6 installed in your computer. you can download it by running this command
 
