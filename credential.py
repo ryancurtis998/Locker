@@ -1,7 +1,7 @@
 class Credential:
     """
 
-    Class that will generate new  instances of credentials
+    Class that will generate new  instances of  credentials
 
     """
 
